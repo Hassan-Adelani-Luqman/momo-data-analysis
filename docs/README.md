@@ -1,3 +1,11 @@
+## Video Walkthrough
+
+[https://vimeo.com/1093488911/b69bede3ab?share=copy]
+
+## The link to the report
+
+[https://drive.google.com/file/d/1qSgP04De5DOm_9Si2tsVZpGb9-hmOIux/view?usp=drive_link]
+
 # MoMo SMS Data Analysis Dashboard
 
 A full-stack application for processing, analyzing, and visualizing MTN Mobile Money (MoMo) SMS transaction data. This dashboard provides insights into various types of mobile money transactions, helping users understand their financial patterns and behaviors.
@@ -166,9 +174,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - MTN Mobile Money for the SMS data format
 - All contributors who have helped shape this project
 
-## Video Walkthrough
-
-[https://vimeo.com/1093488911/b69bede3ab?share=copy]
 
 ## Contact
 
