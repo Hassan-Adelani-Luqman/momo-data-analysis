@@ -168,7 +168,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Video Walkthrough
 
-[Link to 5-minute video walkthrough will be added here]
+[https://vimeo.com/1093488911/b69bede3ab?share=copy]
 
 ## Contact
 
