@@ -1,0 +1,11 @@
+Flask==2.2.5
+Flask-SQLAlchemy==2.5.1
+Flask-CORS==4.0.0
+SQLAlchemy==1.4.41
+pandas>=2.2.0
+numpy>=1.26.0
+plotly>=5.18.0
+dash>=2.14.0
+dash-bootstrap-components>=1.5.0
+python-dotenv==1.0.0
+Werkzeug==2.2.3 
