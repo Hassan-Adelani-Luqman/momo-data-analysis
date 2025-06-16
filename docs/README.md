@@ -57,7 +57,7 @@ A full-stack application for processing, analyzing, and visualizing MTN Mobile M
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/momo-data-analysis.git
+   git clone https://github.com/Hassan-Adelani-Luqman/momo-data-analysis.git
    cd momo-data-analysis
    ```
 
